@@ -45,7 +45,7 @@ It includes a Streamlit web interface so users can securely enter their API keys
    - *"Create a summary file for sample_data/resume_john_doe.txt"*
 
 ## Demo
-Watch the LLM File System Assistant in action here:
+Watch the LLM File System Assistant in action here: demo.webm
 
 <video controls src="demo.webm" title="Title"></video>
 

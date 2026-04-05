@@ -1,0 +1,11 @@
+Name: Emma Brown
+
+Summary:
+Data Scientist specializing in machine learning and predictive modeling.
+
+Skills:
+JavaScript, TypeScript, React, Node.js
+
+Experience:
+Worked at XYZ Corp for 3 years.
+Led a team of 4 engineers.
